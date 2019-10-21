@@ -3,7 +3,7 @@ chardet==3.0.4
 cycler==0.10.0
 idna==2.7
 matplotlib==2.1.1
-nltk==3.3
+nltk==3.4.5
 numpy==1.15.1
 oauthlib==2.1.0
 pyparsing==2.2.1
